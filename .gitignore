@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+.*.sw?
+.*.un~
+
+# Logs (in case future tweaks include any)
+*.log
+
+# Node or build stuff (unlikely here, but just in case)
+node_modules/
+dist/
+
+
